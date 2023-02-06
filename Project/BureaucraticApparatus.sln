@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BureaucraticApparatus", "BureaucraticApparatus\BureaucraticApparatus.csproj", "{99BE60E9-819D-4859-B36B-BB34387FF885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99BE60E9-819D-4859-B36B-BB34387FF885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BE60E9-819D-4859-B36B-BB34387FF885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BE60E9-819D-4859-B36B-BB34387FF885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BE60E9-819D-4859-B36B-BB34387FF885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {476EE5AF-87EC-4711-81FC-377A86BA6EED}
+	EndGlobalSection
+EndGlobal
